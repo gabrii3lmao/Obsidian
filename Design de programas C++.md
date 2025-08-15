@@ -22,11 +22,11 @@ Requisitos é um termo sofisticado para designar tanto as restrições que sua s
 * Definir o seu teste/feedback/lançamento da sua estratégia.
 * determinar como você vai fazer o backup do código.
 
- Porém, como um programador novato, as respostas para essas questões são simples: Você está fazendo um programa para você mesmo, usando a [IDE] que você baixou, e o seu código não vai ser visto por ninguém além de você mesmo.
+ Porém, como um programador novato, as respostas para essas questões são simples: Você está fazendo um programa para você mesmo, usando a [IDE](IDE.md) que você baixou, e o seu código não vai ser visto por ninguém além de você mesmo.
 
 ## **Passo 4: quebrar problemas difíceis em problemas fáceis.**
 
- Tentar descobrir o que fazer com o problema pode ser muito difícil. Por isso, nós geralmente usamos o método **[[Top Down]]** de resolução de problemas. Que é, em vez de fazer uma tarefa complexa, nós quebramos a tarefa em subtarefas, cada uma que é individualmente fácil de resolver.
+ Tentar descobrir o que fazer com o problema pode ser muito difícil. Por isso, nós geralmente usamos o método **[Top Down](TopDown.md)** de resolução de problemas. Que é, em vez de fazer uma tarefa complexa, nós quebramos a tarefa em subtarefas, cada uma que é individualmente fácil de resolver.
 
 ## **Passo 5: Descobrir a sequência de eventos
 
