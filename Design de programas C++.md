@@ -2,7 +2,7 @@
 ___
 
 ## **Passo 1: definir uma meta**
-#### Para conseguir escrever um programa com sucesso, você primeiro precisa definir uma [[META]]. 
+#### Para conseguir escrever um programa com sucesso, você primeiro precisa definir uma [META](META.md). 
 ##  **Passo 2: definir as necessidades**
  Enquanto definir o seu problema ajuda você a determinar _qual_ saída você quer, continua vago. O próximo passo é definir o que você precisa. 
 
@@ -22,7 +22,7 @@ Requisitos é um termo sofisticado para designar tanto as restrições que sua s
 * Definir o seu teste/feedback/lançamento da sua estratégia.
 * determinar como você vai fazer o backup do código.
 
- Porém, como um programador novato, as respostas para essas questões são simples: Você está fazendo um programa para você mesmo, usando a [[IDE]] que você baixou, e o seu código não vai ser visto por ninguém além de você mesmo.
+ Porém, como um programador novato, as respostas para essas questões são simples: Você está fazendo um programa para você mesmo, usando a [IDE] que você baixou, e o seu código não vai ser visto por ninguém além de você mesmo.
 
 ## **Passo 4: quebrar problemas difíceis em problemas fáceis.**
 
