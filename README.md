@@ -1,2 +1,2 @@
-# Obsidian
-Anotações que faço no obsidian
+# Obsidian // estudos
+Este repositório serve para depositar as anotações que faço no obsidian. 
