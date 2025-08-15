@@ -26,7 +26,7 @@ Requisitos é um termo sofisticado para designar tanto as restrições que sua s
 
 ## **Passo 4: quebrar problemas difíceis em problemas fáceis.**
 
- Tentar descobrir o que fazer com o problema pode ser muito difícil. Por isso, nós geralmente usamos o método **[Top Down](Top Down.md)** de resolução de problemas. Que é, em vez de fazer uma tarefa complexa, nós quebramos a tarefa em subtarefas, cada uma que é individualmente fácil de resolver.
+ Tentar descobrir o que fazer com o problema pode ser muito difícil. Por isso, nós geralmente usamos o método **[Top Down](TopDown.md)** de resolução de problemas. Que é, em vez de fazer uma tarefa complexa, nós quebramos a tarefa em subtarefas, cada uma que é individualmente fácil de resolver.
 
 ## **Passo 5: Descobrir a sequência de eventos
 
