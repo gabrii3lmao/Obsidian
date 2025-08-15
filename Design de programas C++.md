@@ -28,6 +28,6 @@ Requisitos é um termo sofisticado para designar tanto as restrições que sua s
 
  Tentar descobrir o que fazer com o problema pode ser muito difícil. Por isso, nós geralmente usamos o método **[Top Down](TopDown.md)** de resolução de problemas. Que é, em vez de fazer uma tarefa complexa, nós quebramos a tarefa em subtarefas, cada uma que é individualmente fácil de resolver.
 
-## **Passo 5: Descobrir a sequência de eventos
+## **Passo 5: Descobrir a sequência de eventos**
 
  Com o programa estruturado, é hora de determinar como ligar todas as atividades juntas. O primeiro passo é determinar a sequência de ventos que vai ser feito. Um exemplo é quando você acorda de manhã. Você primeiro vai ao banheiro, depois à cozinha e etc.
